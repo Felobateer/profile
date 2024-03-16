@@ -1,0 +1,11 @@
+Model Information:
+* title:	Razer Blade 15 Laptop
+* source:	https://sketchfab.com/3d-models/razer-blade-15-laptop-2632f15a632c4e65b5e8338c27a6d2de
+* author:	Htwest (https://sketchfab.com/Htwest)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Razer Blade 15 Laptop" (https://sketchfab.com/3d-models/razer-blade-15-laptop-2632f15a632c4e65b5e8338c27a6d2de) by Htwest (https://sketchfab.com/Htwest) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
